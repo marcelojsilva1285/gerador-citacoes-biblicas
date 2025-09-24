@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const btnGerar = document.getElementById('btn-gerar');
- 
+  const btnGerar = document.getElementById('btn-gerar'); 
   const textoBiblico = document.getElementById('text');
   const referencia = document.getElementById('referencia');
   let numeroAnterior = -1;
